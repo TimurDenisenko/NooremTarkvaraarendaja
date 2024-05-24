@@ -50,7 +50,6 @@ img, svg {
     margin-bottom: 10px;
 }
 #projektid a {
-    text-decoration: none;
     color: black;
  }
 #projektid ul li {
@@ -68,4 +67,11 @@ img, svg {
 }
 #mvp{
     width: 700px;
+}
+#mvp p{
+    padding: 10pt;
+}
+body{
+    font-family: Arial;
+    font-size: 12pt;
 }
